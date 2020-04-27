@@ -1,5 +1,4 @@
-#后续会更新绕过脚本；当前占位
-#sangfor afsec 
+#sangfor afsec; Author:K.M 
 import unittest
 import os
 import socket
