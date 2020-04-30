@@ -1,4 +1,3 @@
-#sangfor afsec; Author:K.M 
 import unittest
 import os
 import socket
